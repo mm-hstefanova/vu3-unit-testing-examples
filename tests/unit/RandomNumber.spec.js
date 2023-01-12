@@ -1,8 +1,3 @@
-// 1. min max / output
-// 2. if output is between min / max
-// 3. when we click the button if there is an update?
-// 4.
-
 import RandomNumber from '@/components/RandomNumber.vue'
 import { mount } from '@vue/test-utils'
 
